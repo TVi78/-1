@@ -15,7 +15,6 @@ public class Answer {
         max=c;
       }
       return max;
-
     }
 
   // Не удаляйте и не меняйте метод Main! 
