@@ -28,7 +28,7 @@ int[] ReverseArray(int[] arr)
         arr[arr.Length - 1 - i] = temp;
     }
     return arr;
-}dotnet run
+}
 
 int[] array = new int[GetNumber("Введите кол-во элементов массива: ")];
 array = FillArray(array);
