@@ -12,8 +12,6 @@ class Answer {
       {
         Console.Write($"Число `{number}` нечётное");
       }
-
-
     }
   
 
